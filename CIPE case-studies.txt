@@ -1,0 +1,34 @@
+1. SMC Pneumatics (India) Pvt. Ltd. v. Jogesh Kwatra
+	> India's first case of cyber defamation
+	1.Jogesh Kwatra, was an employee in the plaintiff’s company
+	2.He started sending filthy emails to his employers and subsidiaries to defame its Managing director.
+	3.investigation took place ,defented was terminated from service
+	4.further,honarable judge restarined defended from publishing any information in actual world as in cyberspace .
+	5.order of court asssumes tremendous significance as this is the first time concerning cyberspace.
+
+2. Suhas Katti v. State of Tamil Nadu
+	1.The accused was the victim’s family friend and wanted to marry her but she married another man which resulted in a divorce. 
+	2.After her divorce, the accused influenced her again and, on her unwillingness to marry him, 
+	3.he took the course of harassment through the Internet. 
+	4.He opened a false e-mail account in the victim's name and posted obscene, defamatory, and annoying information about the victim.
+
+	5.The accused was convicted under Section 469 and 509 of the Indian Penal Code, 1860 and
+	6.Section 67 of the IT Act by Additional Chief Metropolitan Magistrate.
+
+3. Romesh Thapar Case
+	1.The petitioner was the the printer, publisher and editor of a journal in English called Cross Roads printed and published in Bombay.
+	2.Under Section 9 (1-A) of the the Madras Maintenance of Public Order Act, 1949, the entry and circulation of the journal was banned in the erstwhile State of Madras.
+	3.In response to the ban, the petitioner filed a writ petition before the Supreme Court, 
+	4.In response, it was considered on behalf of the respondent State, that the restriction was for the purpose of public safety and public order.
+	5.arguing that the State’s justification for the ban on the basis of “public safety” was too broad. 
+	6.The Court noted that such expansive restrictions were unconstitutional and that only narrow restrictions on freedom of expression were permitted.
+
+4. Mohd. Ahmed Khan v. Shah Bano Begum
+	1.Ms. Shah Bano Begum was married to a lawyer named Mr. Mohd. Ahmed Khan. They lived together for 43 years and had five children.
+	2.In 1978, Mr. Khan threw Ms. Begum out of the shared household and Ms. Begum applied for maintenance from Mr. Khan under Section 125 of the Criminal Procedure Code, 1973 (Cr.P.C, 1973).
+	3. Pending her application, Mr. Khan dissolved the marriage by pronouncing a triple talaq and paid Ms. Begum 3000 rupees as mahr 
+	4. and a further sum of maintenance for the iddat period .
+	5. Mr. Khan argued that Ms. Begum’s claim for maintenance should be dismissed as Ms. Begum had received the amount due to her on divorce under the Muslim personal law. 
+	6.The lower court granted Ms. Begum’s claim for maintenance, which was set at 179 rupees per month by the High Court in a revision application. 
+	6.Mr. Khan appealed to the Supreme Court in 1985 and the Court held that a payment made pursuant to personal laws cannot absolve a husband of his obligation 
+		to pay fair and reasonable maintenance under Section 125 Cr.P.C, 1973 and a husband can be liable to pay maintenance beyond the iddat period.
